@@ -341,7 +341,7 @@ jobs:
           retention-days: 7
 
       - name: ❤️ Upload dtbo.img
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v
         env:
           ARCH: ${{ steps.generate-args.outputs.ARCH }}
         with:
