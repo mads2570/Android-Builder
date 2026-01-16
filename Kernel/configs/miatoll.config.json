@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "beryllium",
-      "repo": "https://github.com/MingBeifen/kernel-xiaomi-sdm845.g",
+      "repo": "https://github.com/MingBeifen/kernel-xiaomi-sdm845.git",
       "branch": "main",
       "device": "beryllium",
       "defconfig": "beryllium_user_defconfig"
