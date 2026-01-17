@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "beryllium",
       "repo": "https://github.com/RaphielGang/disrupt_kernel_xiaomi_sdm845.git",
-      "branch": "main",
+      "branch": "master",
       "device": "beryllium",
       "defconfig": "beryllium_defconfig"
     },
